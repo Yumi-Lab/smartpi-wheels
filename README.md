@@ -19,12 +19,14 @@ uv pip install <pkg> --find-links https://raw.githubusercontent.com/Yumi-Lab/sma
 
 `UV_FIND_LINKS` is honoured too.
 
-## Contents (release `v1`)
+## Contents (release `v2`)
 
 Harvested from a real `uv` build on the Smart Pi One. Tags: `cp313-cp313-linux_armv7l`.
 
 | package | version |
 |---------|---------|
+| cffi | 1.17.1 |
+| cffi | 2.0.0 |
 | cffi | 2.1.1 |
 | httptools | 0.8.0 |
 | markupsafe | 3.0.3 |
@@ -32,4 +34,7 @@ Harvested from a real `uv` build on the Smart Pi One. Tags: `cp313-cp313-linux_a
 | pyyaml | 6.0.3 |
 | regex | 2026.7.19 |
 | setproctitle | 1.3.7 |
+| tree_sitter | 0.26.0 |
+| tree_sitter_bash | 0.25.1 |
 | uvloop | 0.22.1 |
+| zstandard | 0.25.0 |
